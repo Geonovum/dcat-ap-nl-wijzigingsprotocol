@@ -26,11 +26,11 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 - **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.
 - **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.
 
-#### Oudere versie van een standaard
+#### Oudere versies van de standaard
 
-Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde geo-standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de [conceptenbibliotheek](https://definities.geostandaarden.nl/home) , het [technisch register](https://register.geostandaarden.nl/)  en het [documentenregister](https://docs.geostandaarden.nl/) ). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
+Na het uitbrengen van een nieuwe versie blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de [conceptenbibliotheek](https://definities.geostandaarden.nl/home) , het [technisch register](https://register.geostandaarden.nl/)  en het [documentenregister](https://docs.geostandaarden.nl/) ). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie wordt de ontwikkeling van de oude versie stopgezet.
 
-Voor het onderhoud en de ondersteuning van een oude versie van een geo-standaard gelden de volgende uitgangspunten:
+Voor het onderhoud en de ondersteuning van een oude versie gelden de volgende uitgangspunten:
 
 - Aan een oude versie worden geen nieuwe features toegevoegd, geen aanpassingen gedaan op X en Y niveau na het uitbrengen van een nieuwe versie. Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen maar doorgegeven aan het ontwikkelteam. Correcties (Z-wijzigingen) worden wel uitgevoerd op de vorige versies zolang deze nog ondersteund worden.
 - Bij oplevering van een nieuwe versie wordt de voorgaande versie nog een van te voren vastgestelde periode ondersteund. De duur van de overgangsperiode wordt mede bepaald door de omvang van de wijzigingen (X, Y en Z wijzigingen op de vorige versies), de staat van ontwikkeling van de standaard, en of de standaard in voorlopig dan wel permanent beheer is.
@@ -38,11 +38,13 @@ Voor het onderhoud en de ondersteuning van een oude versie van een geo-standaard
 
 ### Proces varianten
 
-In paragraaf [Oude versie van een standaard](#oude-versie-van-een-standaard) zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen. 
+In paragraaf [Oudere versies van de standaard](#oudere-versies-van-de-standaard) zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen. 
 
 **Proces voor X en Y wijzigingen**
 
-Deze vergen volledige afstemming en het doorlopen van alle in paragraaf [Fasen en resultaten](#fasen-en-resultaten) beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders. Het resultaat van de werkgroep wordt in een openbare consultatie getoetst. Besluitvorming over vaststelling van een standaard vindt plaats in de PGDI, met een adviserende rol van de Architectuurraad. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
+Deze vergen volledige afstemming en het doorlopen van alle in paragraaf [Fasen en resultaten](#fasen-en-resultaten) beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders. Het resultaat van de werkgroep wordt in een openbare consultatie getoetst. 
+
+PGDI beoordeelt en beslist over de wijzigingsvoorstellen en stelt een nieuwe (versie) van de standaard vast van DCAT-AP-NL die bij Geonovum in beheer is. Deze wijzigingsvoorstellen worden eerst inhoudelijke behandeld door de Architectuurraad, resulterend in een advies aan de PGDI. De programmeringstafels worden eerder in het ontwikkeltraject van een standaard te betrokken. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
 
 **Proces voor Z wijzigingen**
 
@@ -58,7 +60,7 @@ Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvormi
 
 **Inhoud**
 
-In de fase inhoud wordt voor iedere melding bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. Dit wordt vastgelegd in de Github issues van de DCAT-AP-NL repository en is daarmee zichtbaar voor iedere geinteresseerde. Door het gebruik van labels bij de issues is zichtbaar welke issues vragen zijn en welke issues wijzigingsvoorstellen zijn. Voor meldingen die worden meegenomen in de nieuwe versie van de standaard, worden oplossingen uitgewerkt, op basis waarvan vervolgens de specificatie wordt aangepast. Dit gebeurt door Geonovum in samenwerking met inhoudelijke experts. Afhankelijk van de omvang van de wijziging ten opzichte van de voorgaande versie is de groep van experts evenredig groter of kleiner. 
+In de fase inhoud wordt voor iedere melding bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. Dit wordt vastgelegd in de Github issues van de DCAT-AP-NL repository en is daarmee zichtbaar voor iedere geinteresseerde. Door het gebruik van labels bij de issues is zichtbaar welke issues vragen zijn en welke issues wijzigingsvoorstellen zijn. Voor issues die worden meegenomen in de nieuwe versie van de standaard, worden oplossingen uitgewerkt, op basis waarvan vervolgens de specificatie wordt aangepast. Dit gebeurt door Geonovum in samenwerking met inhoudelijke experts. Afhankelijk van de omvang van de wijziging ten opzichte van de voorgaande versie is de groep van experts evenredig groter of kleiner. 
 
 **Toetsing**
 
@@ -66,19 +68,21 @@ De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implement
 
 **Besluitvorming**
 
-Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging en de betreffende geo-standaard (X, Y of Z, zie paragraaf [Proces varianten](#proces-varianten), besluit de architectuurraad van de PGDI dan wel het standaardenteam van Geonovum. Eenmaal vastgesteld en gepubliceerd, wordt de nieuwe versie van de standaard aangemeld bij het [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden/verplicht?trefwoord=182).
+Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf [Proces varianten](#proces-varianten), besluit PGDI dan wel het standaardenteam van Geonovum. Eenmaal vastgesteld en gepubliceerd, wordt de nieuwe versie van de standaard aangemeld bij het [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden/verplicht?trefwoord=182).
 
 **Implementatie**
 
-Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden en voorbeeldbestanden. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen de standaard over. Daarnaast stelt Geonovum validators beschikbaar, waarmee de technische juistheid van de implementatie van standaarden kan worden getoetst. Wij ondersteunen de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#Implementatie) lichten we de implementatie verder toe.
+Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden en voorbeeldbestanden. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen de standaard over. Onderdeel van de standaard zijn SHACL profielen, waarmee de technische juistheid van de implementatie van standaarden kan worden getoetst. Geonovum ondersteunt de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki. Resultaat van deze fase is dat de gebruikers metadata kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#Implementatie) lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
 De volgende groepen en instanties zijn betrokken bij het wijzigingsproces van de standaard:
+
 -	Werkgroep;
 -	Softwareleveranciers;
 -	Architectuurraad PGDI;
-- PGDI;
+-   Programmeringstafels PGDI;
+-   PGDI;
 -	Forum Standaardisatie.
 
 
@@ -88,5 +92,5 @@ Nieuwe versies van de standaard bereidt Geonovum voor in samenwerking met de wer
 
 **PGDI**
 
-Bij het vaststellen van een nieuwe versie (X, Y) van een standaard stelt de [PGDI](https://pgdi.nl/) met advies van Geonovum en de PGDI Architectuurraad vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Het vaststellen van Z-wijzigingen (zie paragraaf [Oude versie van een standaard](#oude-versie-van-een-standaard)) wordt door Geonovum zelf uitgevoerd zonder tussenkomst van de PGDI. 
+Bij het vaststellen van een nieuwe versie (X, Y) van een standaard stelt [PGDI](https://pgdi.nl/) met advies van Geonovum, de PGDI programmeringstafels en de PGDI Architectuurraad vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Het vaststellen van Z-wijzigingen (zie paragraaf [Oude versie van een standaard](#oude-versie-van-een-standaard)) wordt door Geonovum zelf uitgevoerd zonder tussenkomst van de PGDI. 
 
