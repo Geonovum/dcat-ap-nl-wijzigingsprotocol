@@ -11,17 +11,18 @@ Ontwikkelingen in de standaarden kunnen om verschillende redenen gewenst zijn, w
 - wens tot wijziging, uitbreiding of vereenvoudiging uit de praktijk;
 - aanpassing van de standaard door internationale ontwikkelingen.
 
-Met behulp van het wijzigingsprotocol wordt de geplande wijziging van de geo-standaard uitgevoerd. In de aanloop naar een wijziging van de standaarden bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis voor een werkgroep om een nieuwe versie van een geo-standaard op te stellen. Met behulp van onder andere een publieke consultatie leggen wij de nieuwe versie van een geo-standaard voor aan de praktijk en vragen hun feedback.
+Met behulp van het wijzigingsprotocol wordt de geplande wijziging van de standaard uitgevoerd. In de aanloop naar een wijziging van de standaard bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis voor een werkgroep om een nieuwe versie van de standaard op te stellen. Met behulp van onder andere een publieke consultatie leggen wij de nieuwe versie van de standaard voor aan de praktijk en vragen hun feedback.
 
 ### Inzicht in het wijzigingsproces
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. In onderstaand figuur  is het wijzigingsproces geschetst voor het vaststellen van een nieuwe (versie van een) geo-standaard. De beschrijving geldt voor de type wijziging versie X en Y. 
+De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. In onderstaand figuur is de organisatie van het ontwikkelen en beheren van DCAT-AP-NL geschetst.
 
-
-**Figuur: Proces vaststellen nieuwe standaard**
+**Figuur: Organisatiestructuur voor beheer DCAT-AP-NL**
 
 ![organisatie dcat-ap-nl beheer](./media/organisatie_dcat_ap_nl_beheer.png)
 
-Dit figuur toont twee groepen: de werkgroep en de programmaraad. De werkgroep voert het wijzigingsvoorstel in de standaard door. Dit resulteert in een definitief concept van de nieuwe versie van de standaard. De programmaraad beoordeelt dit definitief concept. Keurt zij het goed, dan is er een nieuwe standaard. Keurt zij het af, dan gaat het concept terug naar de werkgroep. Na aanpassing wordt het opnieuw aan de programmaraad voorgelegd, net zo lang totdat de programmaraad de nieuwe versie van de standaard accordeert of de standaard teruggetrokken wordt.
-Bij het vaststellen van een nieuwe versie van een standaard stelt de programmaraad met advies van Geonovum vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Een uitzondering hierop is het Basismodel Geo-informatie (NEN 3610). Ook nieuwe versies van deze standaard bereidt Geonovum voor in samenwerking met werkgroepen. De programmaraad stelt de nieuwe versie niet vast, maar keurt hem goed (of af) en draagt deze vervolgens voor aan de NEN normcommissie 351 240 Geo-informatie. Deze commissie verzorgt de openbare consultatie en stelt de standaard formeel vast. 
-De programmaraad beslist, op advies van Geonovum, of zij een vastgestelde standaard voordraagt voor opname op [de pas-toe-of-leg-uit-lijst voor open standaarden](https://www.forumstandaardisatie.nl/open-standaarden). Bij een positief besluit verzorgt Geonovum de voordracht bij het Forum Standaardisatie. Organisatorisch bestaat er geen formele relatie tussen de stuurgroep en het Forum Standaardisatie, inhoudelijk dus wel.
+Dit figuur toont de betrokken partijen bij het ontwikkelen en beheren van DCAT-AP-NL. 
+
+De werkgroep voert het wijzigingsvoorstel in de standaard door. Dit resulteert in een definitief concept van de nieuwe versie van de standaard. De programmeringstafels en de architectuurraad beoordelen een definitief concept. Als de Architectuurraad (van PGDI) het definitieve concept van een positief advies voorzien gaat het defintieve concept ter goedkeuring naar PGDI.Keurt zij het goed, dan is er een nieuwe standaard. Keurt zij het af, dan gaat het concept terug naar de werkgroep. 
+Bij het vaststellen van een nieuwe versie van een standaard stelt PGDI met advies van de architectuurraad en Geonovum vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. 
+PGDI beslist, op advies van de architectuurraad en Geonovum, of zij een vastgestelde standaard voordraagt voor opname op [de pas-toe-of-leg-uit-lijst voor open standaarden](https://www.forumstandaardisatie.nl/open-standaarden). Bij een positief besluit verzorgt Geonovum de voordracht bij het Forum Standaardisatie.

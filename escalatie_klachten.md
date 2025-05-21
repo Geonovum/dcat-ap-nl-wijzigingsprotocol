@@ -18,21 +18,21 @@ Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou mo
 
 **Overleg**
 
-Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de programmaraad en Geonovum (het standaardenteam). Beide partijen raadplegen de betrokkenen daar waar nodig.
+Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever, de programmeringstafels en Geonovum (het standaardenteam). De partijen raadplegen de betrokkenen daar waar nodig.
 
 **Besluitvorming**
 
-De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van de programmaraad. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door de voorzitter van de programmaraad.
+De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de architectuurraad. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door de architectuurraad.
 
 **Coördinatie**
 
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van de programmaraad. 
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van de architectuurraad. 
 
 **Communicatie met het werkveld**
 
-De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de geo-standaarden wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
+De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de standaard wordt verwacht dat Geonovum het meest directe contact heeft met het werkveld.
 
 ### Klachtenprocedure
 
-Het betrekken van alle belanghebbenden in een wijzigingsproces is een belangrijk uitgangspunt van Geonovum. Eventuele klachten kunnen binnen de bestaande governancestructuren van Geonovum worden ingebracht. Voor inhoudelijke klachten met betrekking op de basisset geo-standaarden kunnen belanghebbenden zich richten tot de directie van Geonovum. De directie zal inhoudelijke klachten bespreken met de voorzitter van de programmaraad, waarna de voorzitter van de programmaraad beoordeelt hoe de klacht het beste binnen deze lijn kan worden geagendeerd. 
+Het betrekken van alle belanghebbenden in een wijzigingsproces is een belangrijk uitgangspunt van Geonovum. Eventuele klachten kunnen binnen de bestaande governancestructuren worden ingebracht, zoals beschreven in het beheerplan. Voor inhoudelijke klachten met betrekking op de standaard kunnen belanghebbenden zich richten tot de directie van Geonovum. De directie zal inhoudelijke klachten bespreken met de opdrachtgever, waarna de opdrachtgever beoordeelt hoe de klacht het beste binnen deze lijn kan worden geagendeerd. 
 
