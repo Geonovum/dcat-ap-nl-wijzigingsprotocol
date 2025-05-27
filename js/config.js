@@ -4,7 +4,7 @@ var documentConfig = {
   specType: "HR",                     // HandReiking
   pubDomain: "dcat",
   license: "cc-by",                 // Attribution, met bronvermelding
-  shortName: "dcat-ap-nl-wijzigingsprotocol",
+  shortName: "DCAT-AP-NL-wijzigingsprotocol",
   
   editors:
     [
