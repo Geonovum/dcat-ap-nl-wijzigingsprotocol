@@ -4,7 +4,7 @@ var documentConfig = {
   specType: "HR",                     // HandReiking
   pubDomain: "dcat",
   license: "cc-by",                 // Attribution, met bronvermelding
-  shortName: "DCAT-AP-NL-wijzigingsprotocol",
+  shortName: "dcat-ap-nl-wijzigingsprotocol",
   
   editors:
     [
@@ -36,7 +36,7 @@ var documentConfig = {
     ],
   // TODO: Vul de github URL in.
   //neem hier de URL van de github repository op waar het respec document in staat
-  github: "https://github.com/Geonovum/DCAT-AP-NL-wijzigingsprotocol",
+  github: "https://github.com/Geonovum/dcat-ap-nl-wijzigingsprotocol",
   labelColor: {
         def: "#045D9F",
         wv: "#FF0000",
