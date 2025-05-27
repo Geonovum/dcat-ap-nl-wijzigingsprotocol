@@ -5,11 +5,8 @@ Het in gebruik nemen van (een volgende versie van ) de standaard staat centraal 
 
 ### Technische bestanden
 
-Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op:
-- Implementatiebestanden;
-- Voorbeeldbestanden.
+Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op.
 
-De shacl bestanden (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
+De belangrijkste bestanden zijn de shacl files waar de standaard in gemodelleerd is. In deze shacl files zijn zaken als kardinaliteit, optionaliteit en waardebereik gespecificeerd. Met deze shacl files kunnen metadata bestanden gevalideerd worden of ze voldoen aan de DCAT-AP-NL standaard.
 
-Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
 

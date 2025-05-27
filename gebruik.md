@@ -72,23 +72,22 @@ Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen 
 
 **Implementatie**
 
-Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden en voorbeeldbestanden. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen de standaard over. Onderdeel van de standaard zijn SHACL profielen, waarmee de technische juistheid van de implementatie van standaarden kan worden getoetst. Geonovum ondersteunt de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki. Resultaat van deze fase is dat de gebruikers metadata kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#Implementatie) lichten we de implementatie verder toe.
+Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Onderdeel van de standaard zijn SHACL profielen, waarmee de technische juistheid van de implementatie van de standaard kan worden getoetst. Geonovum ondersteunt de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki en het aanbieden van voorbeeldbestanden. Resultaat van deze fase is dat de gebruikers metadata kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#Implementatie) lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
 De volgende groepen en instanties zijn betrokken bij het wijzigingsproces van de standaard:
 
 -	Werkgroep;
--	Softwareleveranciers;
 -	Architectuurraad PGDI;
 -   Programmeringstafels PGDI;
 -   PGDI;
 -	Forum Standaardisatie.
 
 
-**Werkgroep en softwareleveranciers**
+**Werkgroep en portaal beheerders**
 
-Nieuwe versies van de standaard bereidt Geonovum voor in samenwerking met de werkgroep(en) met daarin gebruikers en/of softwareleveranciers. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van de standaard in het werkveld. 
+Nieuwe versies van de standaard bereidt Geonovum voor in samenwerking met de werkgroep met daarin gebruikers en/of portaal beheerders. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van de standaard in het werkveld. 
 
 **PGDI**
 

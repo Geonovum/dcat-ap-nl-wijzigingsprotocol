@@ -1,6 +1,5 @@
-TODO: vul in abstract.md een abstract in.
 
-<aside class="note">
-NH: Dit is een eerste opzet van het wijzigingsprotocol voor DCAT-AP-NL.
-Dit document is nog niet compleet!
-</aside>
+
+## Samenvatting  
+
+Dit document beschrijft het wijzigingsprotocol voor het beheer van het Nederlandse applicatieprofiel op [DCAT-AP-3.0]. Dit Nederlandse applicatieprofiel - DCAT-AP-NL - beantwoordt de vraag over hoe [DCAT-AP-3.0] in de Nederlandse praktijk wordt toegepast.  Het profiel faciliteert de uitwisseling van metadata van verschillende domeinen tussen Nederlandse datacatalogi van (semi)overheidsorganisaties op lokaal, regionaal en landelijk niveau en tussen Nederlandse datacatalogi en EU datacatalogi. Het definieert het schema en geeft voorbeelden voor het gebruik ervan. Het Nederlandse profiel voor DCAT is niet statisch. Dit document beschrijft het protocol voor het beheerregime op basis van BOMOS om wijzigingen naar behoefte en op basis van voorstellen gestructureerd door te voeren. 
