@@ -68,7 +68,7 @@ De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implement
 
 **Besluitvorming**
 
-Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf [Proces varianten](#proces-varianten), besluit PGDI dan wel het standaardenteam van Geonovum. Eenmaal vastgesteld en gepubliceerd, wordt de nieuwe versie van de standaard aangemeld bij het [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden/verplicht?trefwoord=182).
+Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z), zie paragraaf [Proces varianten](#proces-varianten), besluit PGDI dan wel het standaardenteam van Geonovum. Eenmaal vastgesteld en gepubliceerd, wordt de nieuwe versie van de standaard aangemeld bij het [Forum Standaardisatie](https://forumstandaardisatie.nl/open-standaarden/verplicht?trefwoord=182).
 
 **Implementatie**
 

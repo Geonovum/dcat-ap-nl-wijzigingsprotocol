@@ -21,4 +21,4 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 | **Wijzigingsproces**  |  Het wijzigingsproces is de daadwerkelijke wijziging van de standaard op een bepaald moment. Het volledige wijzigingsproces doorloopt de fasen van het wijzigingsprotocol met een datum van inwerkingtreding van de nieuwe standaard.        |
 | **Wijzigingsverzoek**  | Een wijzigingsverzoek is door een actor ingediend bij Geonovum, de beheerder van de standaard; de standaard moet op een bepaald punt met deze reden worden aangepast of aangevuld of niet. Een wijzigingsverzoek dat niet wordt ingewilligd, wordt beargumenteerd afgewezen. Een ingediende wens of gevonden fout voor de standaard noemen we een wijzigingsverzoek.|
 | **Wijzigingsvoorstel** | In het wijzigingsproces worden de wijzigingsverzoeken die daarin worden meegenomen gebundeld tot één wijzigingsvoorstel.        |
-|**Werkgroep** |	De werkgroep levert input voor de de impactanalyses van de wijzigingsverzoeken aan het beheerteam van DCAT-AP-NL (Geonovum).
+|**Werkgroep** |	De werkgroep levert input voor de impactanalyses van de wijzigingsverzoeken aan het beheerteam van DCAT-AP-NL (Geonovum).

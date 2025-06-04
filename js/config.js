@@ -1,6 +1,6 @@
 var documentConfig = {
   title: "Wijzigingsprotocol DCAT-AP-NL",
-  specStatus: "wv",                   // Werkversie
+  specStatus: "vv",                   // Werkversie
   specType: "HR",                     // HandReiking
   pubDomain: "dcat",
   license: "cc-by",                 // Attribution, met bronvermelding
