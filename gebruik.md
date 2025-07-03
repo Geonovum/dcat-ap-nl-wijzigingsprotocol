@@ -28,7 +28,7 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 
 #### Oudere versies van de standaard
 
-Na het uitbrengen van een nieuwe versie blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de [conceptenbibliotheek](https://definities.geostandaarden.nl/home) , het [technisch register](https://register.geostandaarden.nl/)  en het [documentenregister](https://docs.geostandaarden.nl/) ). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie wordt de ontwikkeling van de oude versie stopgezet.
+Na het uitbrengen van een nieuwe versie blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de [conceptenbibliotheek](https://definities.geostandaarden.nl/) , het [technisch register](https://register.geostandaarden.nl/)  en het [documentenregister](https://docs.geostandaarden.nl/) ). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie wordt de ontwikkeling van de oude versie stopgezet.
 
 Voor het onderhoud en de ondersteuning van een oude versie gelden de volgende uitgangspunten:
 
@@ -72,7 +72,7 @@ Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen 
 
 **Implementatie**
 
-Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Onderdeel van de standaard zijn SHACL profielen, waarmee de technische juistheid van de implementatie van de standaard kan worden getoetst. Geonovum ondersteunt de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki en het aanbieden van voorbeeldbestanden. Resultaat van deze fase is dat de gebruikers metadata kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#Implementatie) lichten we de implementatie verder toe.
+Het in gebruik nemen van de standaard in de praktijk staat centraal in deze fase. Onderdeel van de standaard zijn SHACL profielen, waarmee de technische juistheid van de implementatie van de standaard kan worden getoetst. Geonovum ondersteunt de implementatie bovendien door de werking van de standaard toe te lichten op bijvoorbeeld een wiki en het aanbieden van voorbeeldbestanden. Resultaat van deze fase is dat de gebruikers metadata kunnen maken en uitwisselen conform de nieuwe standaard. In hoofdstuk [Implementatie](#implementatie) lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
@@ -91,5 +91,5 @@ Nieuwe versies van de standaard bereidt Geonovum voor in samenwerking met de wer
 
 **PGDI**
 
-Bij het vaststellen van een nieuwe versie (X, Y) van een standaard stelt [PGDI](https://pgdi.nl/) met advies van Geonovum, de PGDI programmeringstafels en de PGDI Architectuurraad vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Het vaststellen van Z-wijzigingen (zie paragraaf [Oude versie van een standaard](#oude-versie-van-een-standaard)) wordt door Geonovum zelf uitgevoerd zonder tussenkomst van de PGDI. 
+Bij het vaststellen van een nieuwe versie (X, Y) van een standaard stelt [PGDI](https://pgdi.nl/) met advies van Geonovum, de PGDI programmeringstafels en de PGDI Architectuurraad vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Het vaststellen van Z-wijzigingen (zie paragraaf [Oudere versies van de standaard](#oudere-versies-van-de-standaard)) wordt door Geonovum zelf uitgevoerd zonder tussenkomst van de PGDI. 
 
