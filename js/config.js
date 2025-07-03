@@ -6,6 +6,13 @@ var documentConfig = {
   license: "cc-by",                 // Attribution, met bronvermelding
   shortName: "dcat-ap-nl-wijzigingsprotocol",
   
+    alternateFormats: [
+      {
+          label: "pdf",
+          uri: "dcat-ap-nl-wijzigingsprotocol.pdf",
+      },
+  ],
+
   editors:
     [
       {
