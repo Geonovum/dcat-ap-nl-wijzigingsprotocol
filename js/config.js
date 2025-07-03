@@ -1,4 +1,4 @@
-var documentConfig = {
+var respecConfig = {
   title: "Wijzigingsprotocol DCAT-AP-NL",
   specStatus: "def",                   // defintieve versie
   specType: "HR",                     // HandReiking
